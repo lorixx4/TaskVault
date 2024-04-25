@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskVault</string>
+    <string name="add_task">button opens the add new task dailog</string>
+</resources>
